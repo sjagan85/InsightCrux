@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Balakumar C",
+    "username": "balac",
+    "email": "",
+    "address": {
+      "street": "Vadakupattu",      
+      "city": "Chennai",
+      "pincode": "600091",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+      "area":"Madipakkam"
+    },
+    "phone": "",
+    "area": "madipakkam"    
+  },
+    {
+    "id": 2,
+    "name": "Jagan S",
+    "username": "jagans",
+    "email": "",
+    "address": {
+      "street": "Vadakupattu",      
+      "city": "Chennai",
+      "pincode": "600091",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+      "area":"Madipakkam"
+    },
+    "phone": "",
+    "area": "madipakkam"    
+  },
+   {
+    "id": 3,
+    "name": "Balaji C",
+    "username": "balajic",
+    "email": "",
+    "address": {
+      "street": "Vadakupattu",      
+      "city": "Chennai",
+      "pincode": "600042",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+      "area":"Velachery"
+    },
+    "phone": "",
+    "area": "Velachery"    
+  },
+   {
+    "id": 4,
+    "name": "Anand PR",
+    "username": "anandpr",
+    "email": "",
+    "address": {
+      "street": "Vadakupattu",      
+      "city": "Chennai",
+      "pincode": "600015",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+      "area":"Saidapet"
+    },
+    "phone": "",
+    "area": "Saidapet"    
+  },
+   {
+    "id": 5,
+    "name": "Vijay C",
+    "username": "vijayc",
+    "email": "",
+    "address": {
+      "street": "Vadakupattu",      
+      "city": "Chennai",
+      "pincode": "600015",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+      "area":"Saidapet"
+    },
+    "phone": "",
+    "area": "Saidapet"    
+  }
+]
